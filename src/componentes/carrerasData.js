@@ -240,6 +240,7 @@ export default function CarrerasData(){
 
     carrerasArray[4]={
       name: 'Arquitectura',
+      link:'http://tecmm.edu.mx/Carrera/Arquitectura',
       card:CardArquitectura,
       portada: Arquitectura,
       youtube:'1Vt2xyS547s',
@@ -314,6 +315,7 @@ export default function CarrerasData(){
 
     carrerasArray[7]={
       name: 'Ingenieria-Electromecanica',
+      link:'http://tecmm.edu.mx/Carrera/Ingenieria-Electromecanica',
       card:CardIngElectromecanica,
       portada: IngElectromecanica,
       youtube:'rxlPixDE6hc',
@@ -422,6 +424,7 @@ export default function CarrerasData(){
 
     carrerasArray[11]={
       name: 'Ingenieria-en-Gestion-Empresarial',
+      link:'http://tecmm.edu.mx/Carrera/Ingenieria-en-Gestion-Empresarial',
       card:CardIngGestionEmpresarial,
       portada: IngGestionEmpresarial,
       youtube:'SIbWitsNhu0',
@@ -452,6 +455,7 @@ export default function CarrerasData(){
 
     carrerasArray[12]={
       name: 'Ingenieria-Industrial',
+      link:'http://tecmm.edu.mx/Carrera/Ingenieria-Industrial',
       card:CardIngIndustrial,
       portada: IngIndustrial,
       youtube:'8GONm_MoLLs',
@@ -517,6 +521,7 @@ export default function CarrerasData(){
 
     carrerasArray[14]={
       name: 'Ingenieria-Informatica',
+      link:'http://tecmm.edu.mx/Carrera/Ingenieria-Informatica',
       card:CardIngInformatica,
       portada: IngInformatica,
       youtube:'ehgXAgsrqRA',

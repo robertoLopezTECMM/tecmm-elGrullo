@@ -18,12 +18,12 @@ class Enlaces extends Component {
        <div className="div-principalEnlaces">
         <h1>ENLACES</h1>
 
-        <a target="_blank" href="">
+        <a target="_blank" href="http://sycegrullo.sytes.net/">
           <img src="http://tecmm.edu.mx/imagenesCampus/sice.png"/>
         </a>
 
-        <a target="_blank" href="">
-          <img style={{marginLeft:"5px", marginRight:"5px"}} src="http://tecmm.edu.mx/imagenesCampus/moodle.png"/>
+        <a target="_blank" href="http://187.174.80.183:8080/core/login.jsp?panel=Aspirantes">
+          <img style={{marginLeft:"5px", marginRight:"5px"}} src="http://tecmm.edu.mx/imagenesCampus/edcore.png"/>
         </a>
 
         <a target="_blank" href="http://tecmm.edu.mx/#/Convocatorias">

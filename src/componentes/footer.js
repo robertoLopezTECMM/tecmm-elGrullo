@@ -20,7 +20,7 @@ class Footer extends Component{
 
           <div className="lista1-linksFooter">
             <div className="topnav">
-              <a href="http://tecmm.edu.mx/patentes">CARTERA TECNOLOGICA</a>
+              <a href="http://187.188.199.141/moodle/">MOODLE</a>
               <a href="https://transparencia.info.jalisco.gob.mx/transparencia/organismo/312">TRANSPARENCIA</a>
               <a href="http://tecmm.edu.mx/calendarios/Calendario%20TecMM%202019-2020.png">CALENDARIO</a>
               <a href="https://www.conacyt.gob.mx/">CONACYT</a>
